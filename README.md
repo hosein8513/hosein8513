@@ -1,14 +1,18 @@
 # Hi 👋 I'm Hosein
 
-### Jounior Front-End Developer
-
-
----
-
-### 💻 Tech Stack
-
-HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Git • GitHub • REST API • Fetch API • JSON Server • Context API • React Hooks • Responsive Design • Figma
+**Junior Front-End Developer**
 
 ---
 
-📧 **Email:** `kazmyh279@gmail.com`
+## 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,figma)](https://skillicons.dev)
+
+**HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Git • GitHub • REST API • Fetch API • JSON Server • Context API • React Hooks • Responsive Design • Figma**
+
+---
+
+## 📧 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazmyh279@gmail.com)
+`kazmyh279@gmail.com`
