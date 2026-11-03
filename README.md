@@ -17,7 +17,6 @@ Building modern, responsive and user-friendly web interfaces with **React** and 
 
 - 🎓 Computer Engineering student at Islamic Azad University, Najafabad
 - 🚀 Focused on building real-world projects with React and Next.js
-- 📘 Currently learning **TypeScript**
 - 🌱 Interested in component-based design, clean code and performance
 - 💼 Looking for my first professional opportunity in a development team
 
@@ -25,7 +24,7 @@ Building modern, responsive and user-friendly web interfaces with **React** and 
 
 ## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,github,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,git,github,figma,vercel)](https://skillicons.dev)
 
 ---
 
@@ -42,7 +41,7 @@ A full online store built with Next.js featuring product categories, product pag
 An admin dashboard connected to a real backend, with authentication and chart-based data visualization.
 
 - 💻 [Source Code](https://github.com/hosein8513/admin-panel-real)
-- 🧰 `React` `REST API` `Authentication` `Charts`
+- 🧰 `React` `REST API` `Authentication` `Charts` `Redux` `Formik` `React Router`
 
 ### 📝 Blog
 A blog built with the Next.js App Router, using dynamic routing and Server Components.
