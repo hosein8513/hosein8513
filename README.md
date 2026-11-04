@@ -18,7 +18,6 @@ Building modern, responsive and user-friendly web interfaces with **React** and 
 - 🎓 Computer Engineering student at Islamic Azad University, Najafabad
 - 🚀 Focused on building real-world projects with React and Next.js
 - 🌱 Interested in component-based design, clean code and performance
-- 💼 Looking for my first professional opportunity in a development team
 
 ---
 
